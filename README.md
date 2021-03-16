@@ -1,6 +1,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=kevinleeex&show_icons=true" alt="kevin github status" height="160" align="left" style="margin: 10px;" />
+
 ### Hi there 👋
 
+- 🎓 Got the master's degree in Computer Techlonogy.
+- 💻 Working at [CMBNT](https://cmbnt.cmbchina.com) as System Development Engineer.
+- 🌱 Learning the stuffs about [golang](https://golang.org).
+- 🔭 Interests includes **machine learning, neural networks, natural language processing, full-stack development, etc.**
+- 📫 Reach me at [email](mailto:hello@lidengju.com).
+- 💬 More about me on [my homepage](https://lidengju.com), [my resume](https://lidengju.com/resume).
 <!--
 **kevinleeex/kevinleeex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
