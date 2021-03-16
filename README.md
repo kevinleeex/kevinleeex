@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=kevinleeex&show_icons=true" alt="kevin github status" height="160" align="left" style="margin: 10px;" />
+<img src="https://github-readme-stats.vercel.app/api?username=kevinleeex&show_icons=true" alt="kevin github status" height="160" align="right" style="margin: 10px;" />
 
 ### Hi there 👋
 
