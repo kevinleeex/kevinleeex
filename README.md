@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🎓 Got the master's degree in Computer Techlonogy at [Sichuan University](https://scu.edu.cn/).
+- 🎓 Got the master's degree in Computer Techlonogy from [Sichuan University](https://scu.edu.cn/).
 - 🌱 ~~Learning the stuffs about [golang](https://golang.org).~~
 - 🔭 Interests include **machine learning, neural networks, natural language processing, full-stack development, etc.**
 - 📫 Reach me via [email](mailto:hello@lidengju.com).
